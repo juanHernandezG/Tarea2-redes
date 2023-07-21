@@ -1,0 +1,9 @@
+Tarea 2 - Sockets
+
+Integrantes:
+- Juan Hernandez
+- Jorge Hormazabal
+- Joaquin Poblete
+- Cristian Valenzuela
+
+- en este archivo se encuentra los archivos py y el informe
