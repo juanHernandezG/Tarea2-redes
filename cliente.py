@@ -2,7 +2,7 @@ import socket
 
 # Configuración del cliente
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-server_address = ("localhost", 12345)
+server_address = ("127.0.0.1", 8080)
 
 try:
     # Establece la conexión con el servidor
